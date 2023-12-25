@@ -1,5 +1,5 @@
 /*
-# BlogrCart-eX ~ Easy Shopping Cart Widget for Blogger Blogs
+# صفحة سلة التسوق لقالب بلوجر
 #
 # Dependencies:
 # jQuery 1.9 or later
@@ -7,12 +7,12 @@
 # Blogger Contact Form widget enabled
 #
 # Shopping cart by http://simplecartjs.com
-# Blogger shopping cart widget by http://blog.irsah.com
+# Blogger shopping cart widget by http://meezait.com
 #
-# BlogrCart-eX ~ Send Order Form for Blogger Blogs
-# Date: May 2017
-# Version: 0-9-0
-# Documentation http://blog.irsah.com
+# meezait ~ Send Order Form for Blogger Blogs
+# Date: DEC 2023
+# Version: 0-2-0
+# Documentation http://meezait.com
 #
 # Usages:
   <script>
@@ -221,9 +221,9 @@
 //
 /*
 # BlogrCart-eX ~ Paypal Checkout Currency Converter
-# May 2017
-# Version: 0-9-0
-# Documentation http://blog.irsah.com
+# DEC 2023
+# Version: 0-2-0
+# Documentation http://meezait.com
 #
 # Usages:
   <script>
@@ -303,9 +303,9 @@
 //
 /*
 # BlogrCart-eX ~ Shopping cart setup
-# May 2017
-# Version: 0-9-2
-# Documentation http://blog.irsah.com
+# DEC 2023
+# Version: 0-2-0
+# Documentation http://meezait.com
 #
 # Usages:
   <script>
